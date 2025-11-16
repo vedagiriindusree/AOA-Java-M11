@@ -14,11 +14,11 @@ To Write a Java program that takes an integer input N from the user and prints a
 
 5.Use a loop to print numbers from 1 to N:
 
-While i <= N, print i followed by a space.
+6.While i <= N, print i followed by a space.
 
-Increment i by 1.
+7.Increment i by 1.
 
-End loop and stop the program.
+8.End loop and stop the program.
 ## Program:
 ```
 /*
